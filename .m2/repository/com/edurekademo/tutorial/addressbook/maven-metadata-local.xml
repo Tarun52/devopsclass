@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.edurekademo.tutorial</groupId>
+  <artifactId>addressbook</artifactId>
+  <versioning>
+    <release>2.0</release>
+    <versions>
+      <version>2.0</version>
+    </versions>
+    <lastUpdated>20180605171552</lastUpdated>
+  </versioning>
+</metadata>
